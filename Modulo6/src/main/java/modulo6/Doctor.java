@@ -6,7 +6,7 @@ package modulo6;
 
 /**
  *
- * @author 
+ * @author Darlyng Alexander Zelaya
  */
 public class Doctor extends Persona {
 
