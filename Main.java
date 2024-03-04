@@ -19,6 +19,10 @@ public class Main {
         Doctor doctor = new Doctor();
         Deportista deportista = new Deportista ();
          System.out.println(" ==================================");
+         System.out.println(" ====== GRUPO # 2 MODULO #6 ====== ");
+         System.out.println(" = Intregantes: Gladys Mancia    = ");
+         System.out.println(" = Darling Zelaya, Vivian Vasquez= ");
+         System.out.println(" ==================================");
          System.out.println(" ======  PRIMERA PROFESION  ====== ");
          System.out.println(" ==================================");
          doctor.impirmirInformacion();
